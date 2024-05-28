@@ -1,0 +1,22 @@
+.one{
+    height: 250px;
+    width: 400px;
+    background-color: black;
+}
+.two{
+    height: 100px;
+    width: 320px;
+    background-color: beige;
+    margin-left: 40px;
+}
+#newTodo{
+    margin-top: 40px;
+    margin-left: 40px;
+    height: 30px;
+    width: 250px;
+}
+#addTodoBtn{
+    height: 35px;
+    width: 80px;
+    background-color: orange;
+}
